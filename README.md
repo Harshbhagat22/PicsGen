@@ -14,5 +14,6 @@
 - CSS3 (Responsive Design, Flexbox, Grid)
 - JavaScript (Dynamic content handling)
 - Material Icons (for search icon)
+---
 
-
+![image](https://github.com/user-attachments/assets/89d0fdba-040a-4934-b122-8a711319498b)
