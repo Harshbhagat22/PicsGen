@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PicsGen - Image Search</title>
+    <link rel="stylesheet" href="/PicsGen.css">
+</head>
+<body>
+    <header>
+        <h1>PicsGen</h1>
+        <form>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search for images...">
+                <button id="search-button" type="submit"><i class="material-icons">Search</i></button>
+            </div>
+        </form>
+        <div class="suggested-categories">
+            <button class="category-btn" data-category="game">Game</button>
+            <button class="category-btn" data-category="dog">Dog</button>
+            <button class="category-btn" data-category="cat">Cat</button>
+            <button class="category-btn" data-category="nature">Nature</button>
+            <button class="category-btn" data-category="travel">Travel</button>
+            <button class="category-btn" data-category="city">City</button>
+            <button class="category-btn" data-category="sports">Sports</button>
+        </div>
+    </header>
+    <main>
+        <section>
+            <div class="images-container"></div>
+            <button class="loadMoreBtn">Load More</button>
+        </section>
+    </main>
+    <script src="PicsGen.js"></script>
+</body>
+</html>
