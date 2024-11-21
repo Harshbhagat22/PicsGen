@@ -1,4 +1,4 @@
-### **PicsGen - Image Search App**
+# PicsGen - Image Search App
 
 **PicsGen** is a dynamic and visually appealing web application that allows users to search for high-quality images based on various categories. With a simple and user-friendly interface, PicsGen leverages powerful search functionality to deliver results from popular image sources in real-time. Whether you're looking for images of nature, animals, sports, or more, PicsGen makes it easy to explore and discover the perfect image.
 
